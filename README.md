@@ -20,21 +20,13 @@ Me enfoco en backend sólido con Java + Spring Boot y aplicaciones modernas con 
 
 ---
 
-## 🛠️ Stack principal
+## 🛠️ Stack
 
-**Backend**
-- Java
-- Spring Boot
-- REST APIs
-
-**Frontend**
-- Angular
-
-**Base de datos**
-- PostgreSQL
-
-**Infraestructura**
-- Docker / Docker Compose
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
@@ -45,9 +37,9 @@ Me enfoco en backend sólido con Java + Spring Boot y aplicaciones modernas con 
 Sistema desarrollado para un cliente real.
 
 **Funcionalidades principales:**
-- Gestión de turnos
-- Agenda de empleados
-- Panel con métricas (cortes, ingresos, etc.)
+- Gestión de Usuarios
+- Gestion de Cortes
+- Dashboard con métricas (cortes, ingresos, etc.)
 - Administración de clientes
 - Flujo optimizado para uso diario en el negocio
 
@@ -59,7 +51,7 @@ Sistema desarrollado para un cliente real.
 
 🔗 https://zenta-solutions.netlify.app/
 
-Zenta Solutions es mi iniciativa para desarrollar soluciones digitales para negocios.
+Zenta Solutions es mi iniciativa para desarrollar soluciones digitales para negocios pequeños.
 
 ---
 
@@ -86,7 +78,7 @@ Disponible para:
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU-USUARIO
+- GitHub: https://github.com/LucasDar43
 - Web: https://zenta-solutions.netlify.app/
 
 ---
@@ -94,5 +86,3 @@ Disponible para:
 ## ⚡ Filosofía
 
 Construyo software que se usa en la vida real.
-
-Nada de proyectos de tutorial — soluciones que generan valor.
