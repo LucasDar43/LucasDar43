@@ -6,7 +6,13 @@ Me enfoco en backend sólido con Java + Spring Boot y aplicaciones modernas con 
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+## 🛠️ Stack
+
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
@@ -18,15 +24,6 @@ Me enfoco en backend sólido con Java + Spring Boot y aplicaciones modernas con 
 - Diseño de bases de datos eficientes
 - Integración con servicios externos (pagos, APIs, etc.)
 
----
-
-## 🛠️ Stack
-
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 
 ---
 
