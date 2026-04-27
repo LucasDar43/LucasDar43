@@ -46,7 +46,7 @@ Sistema desarrollado para un cliente real.
 
 ## 🌐 Mi proyecto / emprendimiento
 
-🔗 zentasoluciones.com
+🔗 [zentasoluciones.com](https://zentasoluciones.com/)
 
 Zenta Solutions es mi iniciativa para desarrollar soluciones digitales para negocios pequeños.
 
@@ -76,7 +76,7 @@ Disponible para:
 ## 📫 Contacto
 
 - GitHub: https://github.com/LucasDar43
-- Web: https://zenta-solutions.netlify.app/
+- Web: [https://zenta-solutions.netlify.app/](https://zentasoluciones.com/)
 
 ---
 
