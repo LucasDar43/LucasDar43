@@ -76,7 +76,7 @@ Disponible para:
 ## 📫 Contacto
 
 - GitHub: https://github.com/LucasDar43
-- Web: [https://zenta-solutions.netlify.app/](https://zentasoluciones.com/)
+- Web: [[https://zenta-solutions.netlify.app/](https://zentasoluciones.com/)]
 
 ---
 
