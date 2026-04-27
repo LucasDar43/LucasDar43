@@ -46,7 +46,7 @@ Sistema desarrollado para un cliente real.
 
 ## 🌐 Mi proyecto / emprendimiento
 
-🔗 https://zenta-solutions.netlify.app/
+🔗 zentasoluciones.com
 
 Zenta Solutions es mi iniciativa para desarrollar soluciones digitales para negocios pequeños.
 
